@@ -1,7 +1,7 @@
 <nav class="navbar navbar-dark navbar-expand-lg bg-body-tertiary " style="background-color: #333645">
     <div class="container-fluid mx-5" >
       <a class="navbar-brand" href="#">
-        <img src="https://www.qwords.com/wp-content/themes/qwords_v10/assets/images/logo-light.png" width="80" height="30" class="d-inline-block align-top" alt="">
+        <img src="https://www.qwords.com/wp-content/themes/qwords_v10/assets/images/logo-light.png" width="100" height="40" class="d-inline-block align-top" alt="">
     </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>

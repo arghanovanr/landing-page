@@ -21,5 +21,7 @@
       @include('navbar')
 
       @include('heroes')
+
+      @include('pricing')
 </body>
 </html>

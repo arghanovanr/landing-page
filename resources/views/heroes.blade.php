@@ -12,7 +12,7 @@
         <form class="form-inline">
             <div class="row">
                 <div class="col"><input class="form-control mr-sm-2" type="search" placeholder="Cari nama domain anda" aria-label="Search"></div>
-                <div class="col">    <button class="btn btn-outline-warning my-2 my-sm-0" type="submit">Search</button></div>
+                <div class="col">    <button class="btn btn-warning my-2 my-sm-0" type="submit">Search</button></div>
             </div>    
         </form>
             
