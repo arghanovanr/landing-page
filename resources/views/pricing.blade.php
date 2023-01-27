@@ -1,5 +1,5 @@
-<h1 class="display-10 fw-bold lh-1 mb-3 text-center mt-5">Cloud Hosting dan VPS Diskon Hingga 60% !</h1>
-<p class="lead text-center">Layanan unggulan dengan teknologi terbaik untuk website anda</p>
+<h1 class="display-10 fw-bold lh-1 mb-3 text-center mt-5 mx-5">Cloud Hosting dan VPS Diskon Hingga 60% !</h1>
+<p class="lead text-center mx-5">Layanan unggulan dengan teknologi terbaik untuk website anda</p>
 <div class="row row-cols-1 row-cols-md-4 mb-4 text-center p-5" >
     <div class="col" >
       <div class="card mb-4 rounded-3 shadow-sm" style="border-style: solid; border-color:#8ed1fc" >

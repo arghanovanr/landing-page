@@ -27,5 +27,7 @@
       @include('heroes_guaranteed')
 
       @include('services_price')
+
+      @include('commitment')
 </body>
 </html>
