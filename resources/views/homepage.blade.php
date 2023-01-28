@@ -29,5 +29,15 @@
       @include('services_price')
 
       @include('commitment')
+
+      @include('testimony')
+
+      @include('heroes_cta')
+
+      @include('partner')
+
+      @include('payment')
+
+      @include('footer')
 </body>
 </html>
